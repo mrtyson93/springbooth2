@@ -38,17 +38,18 @@ The project contains a few important packages as noted below:
 
 ## Running the Application
 
-1. Clone the repository:
-2. Navigate to the project directory:
-3. Run the application:
+1. Configure Java 21 on your machine
+2. Clone the repository
+3. Navigate to the project directory
+4. Run the application:
 - If on a Mac, you can run ```./mvnw spring-boot:run```
 - If on a Windows, you can run ```mvnw.cmd spring-boot:run```
 
 
 ## Running Tests
 
-1. Clone the repository:
-2. Navigate to the project directory:
+1. Clone the repository
+2. Navigate to the project directory
 3. Run the tests:
 - If on a Mac, you can run ```./mvnw test```
 - If on a Windows, you can run ```mvnw.cmd test```
